@@ -1,0 +1,2 @@
+npm init -y
+express, body-parse, mysql, joi, multer, cors
