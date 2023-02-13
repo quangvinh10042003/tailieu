@@ -1,2 +1,2 @@
 npm init -y
-express, body-parse, mysql, joi, multer, cors
+express, body-parse, mysql, joi, multer, cors, ejs (nếu cần)
